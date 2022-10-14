@@ -1,4 +1,4 @@
-###👋 Hi there, 
+<b> 👋 Hi there, </b>
 
 🧍I’m Tareq Mahmud. I'm from Bangladesh but currently living in Germany.
 
