@@ -6,7 +6,7 @@
 
 👀 I’m interested in unearthing the full potential of DATA and looking for opportunities to showcase my skills with Data Analysis.
 
-👨‍💻 I am skilled in Python and its different packages, SQL, A/B Testing, EDA, Data Storytelling, Excel, Customer Segmentation, Machine Learning, NLP, Business Analytics, Data Preprocessing, Data Visualization etc.
+👨‍💻 I am proficient in Python and its different packages, SQL, A/B Testing, EDA, Data Storytelling, Excel, Customer Segmentation, Machine Learning, NLP, Business Analytics, Data Preprocessing, Data Visualization etc.
 
 💡I love to learn new skills and specifically any skill related to Data. 
 
