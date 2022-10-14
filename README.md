@@ -1,6 +1,6 @@
 <b> 👋 Hi there, </b>
 
-🧍I’m Tareq Mahmud. I'm from Bangladesh but currently living in Germany.
+🧍I’m Tareq Mahmud,currently living in Germany.
 
 🎯 I am a trained Policy and Data Analyst. 
 
