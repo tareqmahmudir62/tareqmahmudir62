@@ -1,14 +1,12 @@
 <b> 👋 Hi there, </b>
 
-🧍I’m Tareq Mahmud,currently living in Germany.
+🧍 🎯 I am Tareq Mahmud, a Policy and Data Analyst currently residing in Germany. 
 
-🎯 I am a trained Policy and Data Analyst. 
+👀 My passion lies in unlocking the maximum potential of data and I am eager to explore opportunities to demonstrate my expertise in Data Analysis.
 
-👀 I’m interested in unearthing the full potential of DATA and looking for opportunities to showcase my skills with Data Analysis.
+👨‍💻 Proficient in Python and its various packages, SQL, A/B Testing, Exploratory Data Analysis (EDA), Data Storytelling, Excel, Customer Segmentation, Machine Learning, Natural Language Processing (NLP), Business Analytics, Data Preprocessing, Data Visualization, I possess a comprehensive set of technical skills.
 
-👨‍💻 I am proficient in Python and its different packages, SQL, A/B Testing, EDA, Data Storytelling, Excel, Customer Segmentation, Machine Learning, NLP, Business Analytics, Data Preprocessing, Data Visualization etc.
-
-💡I love to learn new skills and specifically any skill related to Data. 
+💡My insatiable thirst for knowledge, especially in the field of data, drives me to continuously learn and upskill.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tareqmahmudir62" />
 
